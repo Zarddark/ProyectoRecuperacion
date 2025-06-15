@@ -1,0 +1,24 @@
+#mapaContainer {
+    display: grid;
+    gap: 4px;
+    margin-top: 20px;
+    justify-content: start;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-size: 18px;
+}
+
+.mine {
+    background-color: #dc3545;
+    /* bootstrap danger color */
+    color: white;
+    font-weight: bold;
+}
