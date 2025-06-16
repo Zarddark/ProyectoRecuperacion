@@ -72,3 +72,5 @@ No incluye la lógica completa del juego, solo la generación, guardado y carga 
     ```
     http://localhost:8080
     ```
+### Autor
+Antonio José Rodríguez
